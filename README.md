@@ -1,13 +1,13 @@
   <div align="center">
     
-## ❄️ 𝑭𝑶𝑹𝒁𝑬𝑵 𝑴𝑫 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑩𝑶𝑻 ❄️ 
+## ❄️ 𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈 ❄️ 
 
 ##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=17202A&lines=🌸+Version+1+.+0+🌸;🌸+Version+1+.+0+🌸)](https://git.io/typing-svg)
 
 
  <p align="center">  
- <a href="[https://telegra.ph/file/953048fb3aa3aae12a12a.jpg](https://telegra.ph/file/0b5a7839e8ee21874921e.jpg)">
-    <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/0b5a7839e8ee21874921e.jpg">
+ <a href="[https://telegra.ph/file/81f6f6589d112ab5dd974.jpg](https://telegra.ph/file/81f6f6589d112ab5dd974.jpg)">
+    <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
 
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝑭𝑶𝑹𝒁𝑬𝑵+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ʏᴀsɪʏᴀ+ᴏғғɪᴄɪᴀʟ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ʏᴀsɪʏᴀ+ᴀɴᴅ+ɪɴᴅᴜᴡᴀʀᴀ;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ᴄʏʙᴇʀ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
