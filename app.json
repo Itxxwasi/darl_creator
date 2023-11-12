@@ -1,14 +1,14 @@
 {
-  "name": "FORZEN-MD",
+  "name": "WASI MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/0b5a7839e8ee21874921e.jpg",
+  "logo": "https://telegra.ph/file/f52b226ec08a445b1e37a.jpg",
   "keywords": ["nodejs", "bot", "FORZEN-MD", "YASIYA-OFC", "INDUWARA", "Secktor","YASIYA","theme bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "YASIYA OFC"
+      "value": "WASI TECH"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
@@ -20,7 +20,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/0b5a7839e8ee21874921e.jpg"
+     "value": "https://telegra.ph/file/f52b226ec08a445b1e37a.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -61,7 +61,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94760018802"
+       "value": "923192173398"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@yasithasamujit2/FORZEN-MD?v=1"
@@ -73,11 +73,11 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": ""
+    "value": "mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are FORZEN-MD (DON'T CHANGE THIS)",
-     "value": "FORZEN-MD"
+     "value": "wasi TECH"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -90,7 +90,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "YASIYA;FORZEN-MD",
+     "value": "WASI;MD",
      "required": false 
   },
   "heroku": {
