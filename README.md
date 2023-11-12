@@ -18,7 +18,7 @@
 ![stars](https://img.shields.io/github/stars/yasiyaofc1/FORZEN-MD?style=social)
 
 ----------
-<a aria-label="Join our chats" href="https://chat.whatsapp.com/L2i6oDCjljt4mtBTUvTh7t" target="_blank">
+<a aria-label="Join our chats" href="https://chat.whatsapp.com/I1FymAZqrigItemS57hB88" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Supporter Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
