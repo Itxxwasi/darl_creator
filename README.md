@@ -1,8 +1,8 @@
   <div align="center">
     
-## ❄️ 𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈 ❄️ 
+##  𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈 
 
-##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=17202A&lines=🌸+Version+1+.+0+🌸;🌸+Version+1+.+0+🌸)](https://git.io/typing-svg)
+##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=17202A&lines=+Version+1+.+0+;+Version+1+.+0+)](https://git.io/typing-svg)
 
 
  <p align="center">  
