@@ -6,7 +6,7 @@
 
 
  <p align="center">  
- <a href="[https://telegra.ph/file/81f6f6589d112ab5dd974.jpg](https://telegra.ph/file/81f6f6589d112ab5dd974.jpg)">
+ <a href="[https://telegra.ph/file/c2a96304ed049d001dd73.jpg](https://telegra.ph/file/c2a96304ed049d001dd73.jpg)">
     <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
 
     
@@ -46,27 +46,27 @@
 
 ----------
 ㅤ
-## **`💃 FORZEN MD BOT OWNERS,`**
+## **``𝐌𝐎𝐃𝐈𝐅𝐄𝐑 𝐎𝐅 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓,`**
 ㅤ
 
 
-🤹‍♂️|**[`YASIYA OFC`]**|
+🤹‍♂️|**[`𝐓𝐇𝐄 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 ]**|
 
  <p align="center">  
- <a href="https://telegra.ph/file/896953d764d69c906a4b7.jpg">
-    <img alt="FORZEN MD MD OWNER" height="80" src="https://telegra.ph/file/896953d764d69c906a4b7.jpg">
+ <a href="https://telegra.ph/file/c2a96304ed049d001dd73.jpg">
+    <img alt="wasi MD MD OWNER" height="80" src="https://telegra.ph/file/c2a96304ed049d001dd73.jpg">
 
-**[» Contact For](https://wa.me/+94760018802)**
+**[» Contact For](https://wa.me/+923192173398)**
 ㅤ
  ㅤ
  ---
-⚜️|**[`MR INDUVARA`]**|
+⚜️|**[`𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈`]**|
 
  <p align="center">  
- <a href="[https://telegra.ph/file/f477e530b93d866c664b1.jpg](https://telegra.ph/file/903e16f9effd8de11cc76.jpg)">
-    <img alt="FORZEN MD OWNER" height="80" src="https://telegra.ph/file/903e16f9effd8de11cc76.jpg">
+ <a href="[https://telegra.ph/file/a9520b23d65cb75394fae.jpg](https://telegra.ph/file/a9520b23d65cb75394fae.jpg)">
+    <img alt="wasi MD OWNER" height="80" src="https://telegra.ph/file/a9520b23d65cb75394fae.jpg">
  
-**[» Contact For](https://wa.me/+94719735716)**
+**[» Contact For](https://wa.me/+923431774796)**
 ㅤ
 ㅤㅤㅤ
 ---
